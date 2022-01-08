@@ -1,3 +1,3 @@
-module github.com/athom/mimipay
+module github.com/athom/danmi
 
-go 1.14
+go 1.17
